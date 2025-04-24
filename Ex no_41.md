@@ -1,7 +1,7 @@
-# EX 41 C program to Write a function to display queue elements using array.
+# EX 41 C program to write a function to find the peek of stack using array.
 ## DATE:
 ## AIM:
-To Write a function to display queue elements using array.
+To write a function to find the peek of stack using array.
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To Write a function to display queue elements using array.
 ## Program:
 ```
 /*
-C program to write a function to display queue elements using array.
+C program to write a function to find the peek of stack using array.
 Developed by: 
 RegisterNumber:  
 */

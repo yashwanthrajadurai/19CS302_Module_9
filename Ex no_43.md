@@ -1,7 +1,7 @@
-# EX 42 C program that implements a queue using an array, and performs insertion (enqueue) and display operations.
+# EX 43 C program to Write a function to display queue elements using array.
 ## DATE:
 ## AIM:
-To write a C program that implements a queue using an array, and performs insertion (enqueue) and display operations.
+To Write a function to display queue elements using array.
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To write a C program that implements a queue using an array, and performs insert
 ## Program:
 ```
 /*
-C program that implements a queue using an array, and performs insertion (enqueue) and display operations.
+C program to write a function to display queue elements using array.
 Developed by: 
 RegisterNumber:  
 */

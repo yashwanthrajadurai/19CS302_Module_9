@@ -1,7 +1,7 @@
-# EX 41 C functions to perform enqueue, dequeue, display, peek in Queue using Array.
+# EX 42 C program to write a fuctions to perform push,pop,display,peek in stack using array.
 ## DATE:
 ## AIM:
-To write a C Write a functions to perform enqueue, dequeue, display, peek in Queue using Array.
+To write a fuctions to perform push,pop,display,peek in stack using array.
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To write a C Write a functions to perform enqueue, dequeue, display, peek in Que
 ## Program:
 ```
 /*
-C functions to perform enqueue, dequeue, display, peek in Queue using Array.
+C program to write a fuctions to perform push,pop,display,peek in stack using array.
 Developed by: 
 RegisterNumber:  
 */
